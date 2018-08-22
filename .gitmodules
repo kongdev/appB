@@ -1,0 +1,3 @@
+[submodule "src/appHelper"]
+	path = src/appHelper
+	url = https://github.com/kongdev/appHelper.git
