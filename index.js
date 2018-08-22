@@ -1,1 +1,2 @@
-console.log("454545454")
+require("./helper/a")
+console.log("appB")
